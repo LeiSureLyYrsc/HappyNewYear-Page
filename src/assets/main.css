@@ -1,0 +1,9 @@
+@import './base.css';
+
+/* 移除默认的 #app 限制，允许全屏布局 */
+#app {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  max-width: none;
+}
